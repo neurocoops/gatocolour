@@ -14,3 +14,6 @@ http://doi.org/10.5281/zenodo.3461459
 ```
 
 [![DOI](https://zenodo.org/badge/199108947.svg)](https://zenodo.org/badge/latestdoi/199108947)
+
+## Examples of colour maps
+![examples](https://github.com/neurocoops/gatocolour/blob/master/examples.jpg "Palettes")
